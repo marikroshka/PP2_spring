@@ -1,3 +1,2 @@
-
-from datetime import timedelta, datetime
+from datetime import *
 print(datetime.today() - timedelta(days=5))
