@@ -1,5 +1,5 @@
 import os
-path = '/Users/rasulkerimzhanov/PycharmProjects/PP2_2024Spring/lab_6'
+path = 'C:/Users/User/Documents/PPSPRING/py/PP2_2024Spring-main/lab_6'
 
 dirs = os.listdir(path)
 

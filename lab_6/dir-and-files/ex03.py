@@ -1,7 +1,6 @@
 import os 
 
-path = r'/Users/rasulkerimzhanov/PycharmProjects/PP2_2024Spring/lab_6'
-# path.replace('\\', '/')
+path = r'C:/Users/User/Documents/PPSPRING/py/PP2_2024Spring-main/lab_6'
 
 if os.path.exists(path):
     print('Path exists')

@@ -1,6 +1,6 @@
 import os
 
-path = r'/Users/rasulkerimzhanov/PycharmProjects/PP2_2024Spring/lab_6/dir-and-files/ex04.txt'
+path = r'C:/Users/User/Documents/PPSPRING/py/PP2_2024Spring-main/lab_6/dir-and-files/ex04.txt'
 
 with open(path, 'r') as f:
     lines = f.readlines()
